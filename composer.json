@@ -14,7 +14,7 @@
         "php": ">=7.1",
         "illuminate/support": "~5.7||~6.0||6.1||6.2",
         "illuminate/database": "~5.7||6.1||6.2",
-        "illuminate/redis": "~5.7||6.1||6.0",
+        "illuminate/redis": "~5.7||6.0||6.1||6.2",
         "predis/predis": "~1.1"
     },
     "require-dev": {
